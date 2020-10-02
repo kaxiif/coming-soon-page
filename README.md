@@ -1,2 +1,6 @@
-# coming-soon-page
-James Bond Cooming Soon Page
+# coming-soon-web-page / demo page
+
+Cooming Soon Page
+
+
+here we have only used html css and javascript.
